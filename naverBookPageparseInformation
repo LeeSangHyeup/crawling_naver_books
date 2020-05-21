@@ -1,0 +1,5 @@
+class태그
+책제목 : N=a:bil.title
+저자 : N=a:bil.author
+출판사 : N=a:bil.publisher
+가격 : 
